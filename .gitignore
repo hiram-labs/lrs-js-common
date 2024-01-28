@@ -1,0 +1,8 @@
+.DS_STORE
+node_modules
+npm-debug.log
+notes.md
+.vscode
+dist
+coverage
+.idea
